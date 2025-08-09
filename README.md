@@ -68,13 +68,4 @@ When you drag the mouse from the object:
 
 ---
 
-## 🔄 Future Improvements
-
-- Add mass input for different objects.
-- Visualize velocity and acceleration arrows.
-- Include kinetic vs static friction behavior.
-- Add option to "pause" simulation for teaching.
-
----
-
 **Author:** Mohammed Shaan
