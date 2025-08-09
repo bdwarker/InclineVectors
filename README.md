@@ -30,7 +30,7 @@ It also simulates **gravity**, **friction**, and **object motion** along the slo
 ---
 
 ## 🖥️ Controls
- ______________________________________________________________
+
 | Action                          | Key / Mouse                |
 |---------------------------------|----------------------------|
 | Apply force                     | **Click & drag** on object |
@@ -42,7 +42,6 @@ It also simulates **gravity**, **friction**, and **object motion** along the slo
 | Increase friction               | **F**                      |
 | Decrease friction               | **D**                      |
 | Quit                            | **Close window**           |
-|______________________________________________________________|
 
 ---
 
